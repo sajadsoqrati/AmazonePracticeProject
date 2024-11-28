@@ -656,5 +656,35 @@ const products = [
       "apparel",
       "mens"
     ]
-  }
+  },
+  {
+    id: "sajadidbc2847e9-5323-403f-b7cf-57fde044a955",
+    image: "images/products/backpack.jpg",
+    name: "backpack",
+    rating: {
+      stars: 3,
+      count: 799
+    },
+    priceCents: 6050,
+    keywords: [
+      "books",
+      "backpacks",
+      "mens"
+    ]
+  },
+  {
+    id: "sajadidaaa65ef3-8d6f-4eb3-bc9b-a6ea49047d8f",
+    image: "images/products/umbrella.jpg",
+    name: "umbrella",
+    rating: {
+      stars: 2.5,
+      count: 1030
+    },
+    priceCents: 3005,
+    keywords: [
+      "rain",
+      "umbrella"
+    ]
+  },
+  
 ];
