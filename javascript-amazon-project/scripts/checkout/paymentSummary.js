@@ -58,6 +58,6 @@ export function renderPaymentSummary(){
         Place your order
       </button>
  `;
- document.querySelector('.js-payment-Summary')
+ document.querySelector('.js-payment-summary')
  .innerHTML = paymentSummaryHTML;
 }
