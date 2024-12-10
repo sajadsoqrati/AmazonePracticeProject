@@ -62,7 +62,7 @@ export function calculateCartQuantity(){
      
     });
     if (cartQuantity!==0){
-    return cartQuantity;}else{
+    return cartQuantity}else{
         return '';
     }
 }
