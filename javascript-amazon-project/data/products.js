@@ -78,6 +78,8 @@ export function getProduct(productId){
 } 
 
 export let products = [];
+
+
 export function loadProducts (fun){
  const xhr = new XMLHttpRequest();  
 xhr.addEventListener('load',()=>{
